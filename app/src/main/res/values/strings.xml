@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Well Track</string>
+    <string name="habit_history">Habit History</string>
+    <string name="moods">Moods</string>
+    <string name="statistics">Statistics</string>
+    <string name="delete_habit">Delete Habit</string>
+    <string name="add_edit_habit">Add/Edit Habit</string>
+    <string name="reminder">Reminder</string>
+    <string name="save">Save</string>
+    <string name="today_s_habits">Today\'s Habits</string>
+    <string name="log_out">Log Out</string>
+    <string name="history">Habit History</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="account">Sign in to continue to your account</string>
+    <string name="email">Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in">Log In</string>
+    <string name="login_with">or continue with</string>
+    <string name="login2">Don\'t have your account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="mood_journal">Mood Journal</string>
+    <string name="feeling_today">How are you feeling today?</string>
+    <string name="happy">Happy</string>
+    <string name="neutral">Neutral</string>
+    <string name="angry">Angry</string>
+    <string name="cool">Cool</string>
+    <string name="past_moods">Past moods</string>
+    <string name="get_started">Get Started</string>
+    <string name="create_account">Create Account</string>
+    <string name="wellness_journey">Sign up to get started with your wellness journey</string>
+    <string name="privacy_policy">I agree to the Terms of Service and Privacy Policy</string>
+    <string name="have_an_account">Already have an account?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="habit_completion">Weekly Habit Completion</string>
+    <string name="overall">Overall Mood Distribution</string>
+</resources>
